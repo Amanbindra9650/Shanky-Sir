@@ -1,0 +1,8 @@
+.cricket{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.players{
+   width: 400px;
+}
